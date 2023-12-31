@@ -1,0 +1,8 @@
+{
+	"Print to console": {
+		"prefix": "mkprecode",
+		"body": [
+			"<pre>\n\t<code>\n\t\t\n\t</code>\n</pre>\n\n"
+		]
+	}
+}
